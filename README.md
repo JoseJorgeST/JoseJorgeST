@@ -23,16 +23,16 @@ Mi especialidad son los **agentes de voz con IA sobre SIP/VoIP** que atienden ll
 
 ### 💼 Experiencia
 
-**Desarrollador Full-Stack** — JJSolution.Digital · 2025 – actualidad
+**Desarrollador Full-Stack** — JJSolution.Digital · 2025 – actualidad<br>
 Desarrollo de agentes de voz con IA, chatbots de WhatsApp e Instagram, comercio electrónico y flujos de automatización. Trabajo el ciclo completo: backend, frontend, VPS con Nginx, SEO técnico y despliegue continuo con GitHub Actions.
 
-**Desarrollador y soporte técnico** — Multi Service 24 Hour (Florida, EE. UU.) · 2025 – actualidad
+**Desarrollador y soporte técnico** — Multi Service 24 Hour (Florida, EE. UU.) · 2025 – actualidad<br>
 Implementé y opero un asistente de voz bilingüe que atiende la línea telefónica de la empresa en producción, además de su sitio web e integraciones.
 
-**Desarrollador freelance** · 2023 – 2025
+**Desarrollador freelance** · 2023 – 2025<br>
 Sitios web y aplicaciones a medida de principio a fin: levantamiento de requerimientos, diseño responsive, desarrollo, publicación y mantenimiento.
 
-**Programador y diseñador** — FGD Desarrollo Web · 2022 – 2023
+**Programador y diseñador** — FGD Desarrollo Web · 2022 – 2023<br>
 Interfaces y aplicaciones con HTML, CSS, JavaScript, React y NestJS.
 
 ---
@@ -66,10 +66,15 @@ Resolver eso fue más difícil que construir el agente.
 ### 🧰 Stack
 
 **IA y automatización** — Agentes de voz, SIP/VoIP, n8n, API de OpenAI, chatbots de WhatsApp e Instagram, ComfyUI
+
 **Backend** — PHP, Laravel, NestJS, MySQL, APIs REST
+
 **Frontend** — React, React Native, JavaScript, TypeScript, Angular, Three.js, HTML, CSS
+
 **Comercio electrónico** — Mercado Pago, Stripe, carritos, pasarelas de pago y gestión de pedidos
+
 **Infraestructura** — VPS Ubuntu, Nginx, Linux, GitHub Actions, CI/CD
+
 **Otras** — WordPress, Figma, SEO técnico, Scrum
 
 ---
@@ -90,7 +95,7 @@ Si necesitas revisar código para un proceso de selección, escríbeme y coordin
 
 ### 🎓 Formación
 
-**Técnico Profesional en Soporte y Procesos Informáticos** — INFOTEP San Juan del Cesar (2022)
+**Técnico Profesional en Soporte y Procesos Informáticos** — INFOTEP San Juan del Cesar (2022)<br>
 Proyecto de grado *Learning English*, aplicación web con **categoría laureada**.
 
 **Habilidades de Programación con profundización en aplicaciones web** — MinTIC + Universidad de Antioquia (800 horas, 2022)
