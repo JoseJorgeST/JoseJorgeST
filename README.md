@@ -24,7 +24,7 @@ Mi especialidad son los **agentes de voz con IA sobre SIP/VoIP** que atienden ll
 ### 💼 Experiencia
 
 **Desarrollador Full-Stack** — JJSolution.Digital · 2025 – actualidad
-Desarrollo de agentes de voz con IA, chatbots de WhatsApp e Instagram y flujos de automatización. Trabajo el ciclo completo: backend, frontend, VPS con Nginx, SEO técnico y despliegue continuo con GitHub Actions.
+Desarrollo de agentes de voz con IA, chatbots de WhatsApp e Instagram, comercio electrónico y flujos de automatización. Trabajo el ciclo completo: backend, frontend, VPS con Nginx, SEO técnico y despliegue continuo con GitHub Actions.
 
 **Desarrollador y soporte técnico** — Multi Service 24 Hour (Florida, EE. UU.) · 2025 – actualidad
 Implementé y opero un asistente de voz bilingüe que atiende la línea telefónica de la empresa en producción, además de su sitio web e integraciones.
@@ -44,6 +44,7 @@ Sistemas en línea y atendiendo usuarios reales hoy:
 | Proyecto | Qué construí | Stack |
 |---|---|---|
 | **[multiservice24hour.com](https://multiservice24hour.com)** | Sitio web y asistente de voz bilingüe con IA que contesta la línea telefónica, filtra llamadas y agenda citas | Vapi · SIP/VoIP · n8n · OpenAI |
+| **[La Bodega del Bebé Store](https://labodegadelbebestore.jjsolution.digital)** | Tienda en línea completa: catálogo por categorías, buscador, favoritos, carrito, cuentas de usuario, seguimiento de pedidos y pagos con tarjeta, PSE y Efecty vía Mercado Pago | Laravel · Blade · JavaScript · Mercado Pago |
 | **[elcantarito44bar.com](https://elcantarito44bar.com)** | Sitio para un bar en Downey, California, con pagos en línea e integración de mapas | Laravel · React · Stripe · Google Maps |
 | **[vittoriapizzeriaytrattoria.com](https://vittoriapizzeriaytrattoria.com)** | Armador de pizzas en vivo y sistema de pedidos por WhatsApp | Angular · TypeScript |
 | **[alitasglotonas.com](https://alitasglotonas.com)** | Menú digital con pedidos a domicilio y para llevar | JavaScript · CSS |
@@ -67,8 +68,9 @@ Resolver eso fue más difícil que construir el agente.
 **IA y automatización** — Agentes de voz, SIP/VoIP, n8n, API de OpenAI, chatbots de WhatsApp e Instagram, ComfyUI
 **Backend** — PHP, Laravel, NestJS, MySQL, APIs REST
 **Frontend** — React, React Native, JavaScript, TypeScript, Angular, Three.js, HTML, CSS
+**Comercio electrónico** — Mercado Pago, Stripe, carritos, pasarelas de pago y gestión de pedidos
 **Infraestructura** — VPS Ubuntu, Nginx, Linux, GitHub Actions, CI/CD
-**Otras** — WordPress, Stripe, Figma, SEO técnico, Scrum
+**Otras** — WordPress, Figma, SEO técnico, Scrum
 
 ---
 
